@@ -1,0 +1,21 @@
+
+/*Buldar coming soon*/
+
+.bg-blue-sg100{ background-color: #386DB8; }
+.cool-gray{ color: #E4E9EE; border-color: #E4E9EE; }
+
+.bg-buldar{
+	background-image: url(../img/cs-bg.png);
+	background-size: cover;
+	background-position: center;
+	min-height: 800px;
+  display: flex;
+  align-items: center;
+}
+.buldar-box{
+background-image: linear-gradient(-201deg, rgba(13,20,42,0.69)  5%, rgba(26,44,110,0.59) 80%);
+box-shadow: 0 3px 10px 6px rgba(0,0,0,0.20);
+}
+
+
+
